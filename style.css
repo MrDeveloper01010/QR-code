@@ -7,7 +7,7 @@
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
   color: white;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 
 
@@ -33,7 +33,7 @@ body{
   border-radius: 6px;
   width: 50%;
   margin-top: 1rem;
-  height: 100vh;
+  height: 98vh;
   padding: 10px;
 }
 h2{
@@ -45,7 +45,7 @@ h2{
   font-size: 2rem;
 }
 input,select,button{
-  width: 60%;
+  width: 50%;
   margin: 0.5rem;
   padding: 10px;
   height: 3rem;
