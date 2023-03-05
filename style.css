@@ -31,7 +31,7 @@ body{
   background-repeat: no-repeat;
   border-radius: 6px;
   width: 50%;
-  font-size: 2rem;
+  font-size: 1rem;
   margin-top: 3rem;
   height: 90vh;
   padding: 10px;
@@ -42,7 +42,7 @@ h2{
   margin: 2rem 0 1rem 0;
   position: relative;
   top: -1rem;
-  font-size: 4rem;
+  font-size: 3rem;
 }
 input,select,button{
   width: 60%;
@@ -50,7 +50,7 @@ input,select,button{
   padding: 10px;
   height: 5rem;
   border-radius: 6px;
-  font-size: 1.5rem;
+  font-size: 0.7rem;
   color: white;
 }
 input,select{
@@ -83,7 +83,7 @@ button{
 
 }
 a{
-  font-size: 1.5rem;
+  font-size: 0.7rem;
   display: block;
   padding: 12px;
   text-align: center;
